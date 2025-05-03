@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+requests
+
+# LangChain modules
+langchain-core
+langchain-community

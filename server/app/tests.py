@@ -1,6 +1,6 @@
 import requests
 
-data = {"user_intent": "intent", "email": "john@wick.com"}
+data = {"user_intent": "romantic route", "email": "john@wick.com"}
 
 response = requests.post("http://localhost:8000/calculate_route", json=data)
 
